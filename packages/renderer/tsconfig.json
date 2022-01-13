@@ -13,6 +13,8 @@
     "types" : [],
 
     "baseUrl": ".",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
     "paths": {
       "/@/*": [
         "./src/*"
